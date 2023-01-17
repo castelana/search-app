@@ -52,6 +52,15 @@ export default function App() {
           </div>
         </div>
       </div>
+      <footer>
+        <a
+          href="https://github.com/castelana/search-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source by Anastasiia Kichkimet
+        </a>
+      </footer>
     </div>
   );
 }
